@@ -49,7 +49,7 @@ This subcommand has additional options:
 
 ## check
 
-Verify all tests at the specified path
+Verify the metadata in `inspec.yml` and verify all controls have visible tests
 
 ### Syntax
 
